@@ -1,0 +1,17 @@
+{
+    "SERVER_ERROR": {
+        "key": "SERVER_ERROR",
+        "code": 500,
+        "msg": "server error, please try again later"
+    },
+    "INVALID_DATE_FORMAT": {
+        "key": "INVALID_DATE_FORMAT",
+        "code": 400,
+        "msg": "date format must be YYYY-MM-DD"
+    },
+    "MISSING_FIELD": {
+        "key": "MISSING_FIELD",
+        "code": 400,
+        "msg": "invalid request, some fields are missing"
+    }
+}

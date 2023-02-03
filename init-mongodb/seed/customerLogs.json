@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "63dc698029575e0fcd5ec4e8"
+  },
+  "customerId": {
+    "$oid": "63dc678729575e0fcd5ec4ce"
+  },
+  "type": "order",
+  "text": "successfully order soap product",
+  "date": {
+    "$date": {
+      "$numberLong": "1673370000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63dc69f429575e0fcd5ec4e9"
+  },
+  "customerId": {
+    "$oid": "63dc678729575e0fcd5ec4ce"
+  },
+  "type": "update_order",
+  "text": "canceled order soap product ",
+  "date": {
+    "$date": {
+      "$numberLong": "1673629200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63dc6aa229575e0fcd5ec4ea"
+  },
+  "customerId": {
+    "$oid": "63dc68cf29575e0fcd5ec4d6"
+  },
+  "type": "order",
+  "text": "successfully order electronic product",
+  "date": {
+    "$date": {
+      "$numberLong": "1673370000000"
+    }
+  }
+}]

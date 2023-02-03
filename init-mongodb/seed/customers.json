@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "63dc678729575e0fcd5ec4ce"
+  },
+  "customerId": {
+    "$oid": "63dc678729575e0fcd5ec4ce"
+  },
+  "locationId": {
+    "$oid": "63dc696b29575e0fcd5ec4e4"
+  },
+  "firstName": "iqbal",
+  "lastName": "muhammad",
+  "email": "miqbalrofik@gmail.com",
+  "phone": "",
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1675443600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63dc68cf29575e0fcd5ec4d6"
+  },
+  "customerId": {
+    "$oid": "63dc68cf29575e0fcd5ec4d6"
+  },
+  "locationId": {
+    "$oid": "63dc697529575e0fcd5ec4e5"
+  },
+  "firstName": "john",
+  "lastName": "doe",
+  "email": "johndoe@gmail.com",
+  "phone": "",
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1675443600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63dc68e529575e0fcd5ec4d7"
+  },
+  "customerId": {
+    "$oid": "63dc68e529575e0fcd5ec4d7"
+  },
+  "locationId": {
+    "$oid": "63dc696b29575e0fcd5ec4e4"
+  },
+  "firstName": "john",
+  "lastName": "charly",
+  "email": "johncharly@gmail.com",
+  "phone": "",
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1675443600000"
+    }
+  }
+}]

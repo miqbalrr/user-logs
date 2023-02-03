@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "63dc696b29575e0fcd5ec4e4"
+  },
+  "locationId": {
+    "$oid": "63dc696b29575e0fcd5ec4e4"
+  },
+  "name": "Indonesia",
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1675443600000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63dc697529575e0fcd5ec4e5"
+  },
+  "locationId": {
+    "$oid": "63dc697529575e0fcd5ec4e5"
+  },
+  "name": "United States",
+  "createdDate": {
+    "$date": {
+      "$numberLong": "1675443600000"
+    }
+  }
+}]
